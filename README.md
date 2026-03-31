@@ -26,11 +26,6 @@
 
 ---
 
-## 📊 GitHub Activity
-(Your contribution graph will automatically show here)
-
----
-
 ## 🎯 Goal
 To build impactful systems and grow through real-world engineering challenges  
 
